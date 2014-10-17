@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[duo:home|Door43 (duo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-duo|d43-duo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-duo/archive/master.zip|d43-duo.zip]]
+
+**Recent Changes**
+{{changes>ns = duo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/duo|Ethnologue data]]
+
